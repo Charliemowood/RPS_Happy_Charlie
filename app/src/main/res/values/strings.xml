@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="welcome_button">Bitch Please! I got it!</string>
+    <string name="rock_button_text">Play Rock</string>
+    <string name="paper_button_text">Play Paper</string>
+    <string name="scissors_button_text">Play Scissors</string>
+    <string name="welcome_string">If you don\'t know how to play rock, paper, scissors... You don\'t got it!</string>
+</resources>
